@@ -1,7 +1,88 @@
 fileFormatVersion: 2
 guid: 7b28da3c8a7316e4daa83a65cc0a9eb5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6222027627539131062
+    second: rt5y_0
+  - first:
+      213: 2928904974766600979
+    second: rt5y_1
+  - first:
+      213: 8581765921692322061
+    second: rt5y_2
+  - first:
+      213: -5400626406823141020
+    second: rt5y_3
+  - first:
+      213: 8221125577562156303
+    second: rt5y_4
+  - first:
+      213: -5175441830492233220
+    second: rt5y_5
+  - first:
+      213: -4264409324446499015
+    second: rt5y_6
+  - first:
+      213: 5558329394097817002
+    second: rt5y_7
+  - first:
+      213: -6543162883991467353
+    second: rt5y_8
+  - first:
+      213: -7619648983004355223
+    second: rt5y_9
+  - first:
+      213: -330397060820621880
+    second: rt5y_10
+  - first:
+      213: -4498342363174185771
+    second: rt5y_11
+  - first:
+      213: -4004411251794770847
+    second: rt5y_12
+  - first:
+      213: -1298922271213691872
+    second: rt5y_13
+  - first:
+      213: 3751085160802489260
+    second: rt5y_14
+  - first:
+      213: 4470998851799170079
+    second: rt5y_15
+  - first:
+      213: -3091867735277800110
+    second: rt5y_16
+  - first:
+      213: -8517624220515705430
+    second: rt5y_17
+  - first:
+      213: 8696810026187617554
+    second: rt5y_18
+  - first:
+      213: -6578996098067500677
+    second: rt5y_19
+  - first:
+      213: 3910284384412279754
+    second: rt5y_20
+  - first:
+      213: -6487042951233546626
+    second: rt5y_21
+  - first:
+      213: 7377204690267611558
+    second: rt5y_22
+  - first:
+      213: -1354360242612774501
+    second: rt5y_23
+  - first:
+      213: 5504011123223597110
+    second: rt5y_24
+  - first:
+      213: -4313712612592469482
+    second: rt5y_25
+  - first:
+      213: -3560176935174675081
+    second: rt5y_26
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +121,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +150,587 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: rt5y_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3106
+        width: 557
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8624e7a8bd5747a759f6b08652ffe
+      internalID: 6222027627539131062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3106
+        width: 676
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2584ee843eff742a6b172094246c20
+      internalID: 2928904974766600979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_2
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3106
+        width: 444
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c8db8f4abac846a6031cc9e55dc78
+      internalID: 8581765921692322061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_3
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 3106
+        width: 444
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c43096163fbf94da6fc3c914745c7a
+      internalID: -5400626406823141020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_4
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 3106
+        width: 414
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c8be0e206e304ea6c1da50f70a26a
+      internalID: 8221125577562156303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_5
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 3106
+        width: 415
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e874bd00c3c9441bffb99cdc67df1f
+      internalID: -5175441830492233220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_6
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 3106
+        width: 471
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612500dbabf8b64aa1de579b69e9dda
+      internalID: -4264409324446499015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076
+        width: 453
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b60d7591e61f54dac1cd8d0e6bcad4
+      internalID: 5558329394097817002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2076
+        width: 423
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b35fd2b785cef349996646072bf8eff
+      internalID: -6543162883991467353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2092
+        width: 471
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a50da3a9b7acf4c881d38e03716217
+      internalID: -7619648983004355223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_10
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2076
+        width: 420
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9847a85d29429cb42b6b43b97ee0eb2c
+      internalID: -330397060820621880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_11
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 2066
+        width: 443
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d3e4dfccfde048a385fae546741ce
+      internalID: -4498342363174185771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_12
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 2066
+        width: 458
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5b8928a7f1b4418bfd98c3f7252b7
+      internalID: -4004411251794770847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_13
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 2030
+        width: 613
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da968d5da30b034187591dbf317cf51
+      internalID: -1298922271213691872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1087
+        width: 363
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fb02d2ab352d5449d61e74ce881b3e
+      internalID: 3751085160802489260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1095
+        width: 322
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19169e3245fbf1146832214d871c9f54
+      internalID: 4470998851799170079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_16
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1083
+        width: 445
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d5277166c8c54ab4ebb4d9a843b40
+      internalID: -3091867735277800110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_17
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1095
+        width: 363
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30d1078dd16d340923d19671ca21b4
+      internalID: -8517624220515705430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_18
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1083
+        width: 418
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1295c04e8bac1bc47aedbc78ffec79cd
+      internalID: 8696810026187617554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_19
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1095
+        width: 362
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d614e1e3158946bb1e2ee0182844a
+      internalID: -6578996098067500677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_20
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1083
+        width: 454
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec9f31e55b7e5479b970507fe6b517
+      internalID: 3910284384412279754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 540
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6b12e9483f2d468918bda69dba06e
+      internalID: -6487042951233546626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 17
+        width: 549
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77aa1584a537bd4f880a66055673ebc
+      internalID: 7377204690267611558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_23
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 0
+        width: 595
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517f8f3096d7ac45ab0bbe14f2f834b
+      internalID: -1354360242612774501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_24
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 0
+        width: 585
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c4c782d8bf60c4da34f8262e78799a
+      internalID: 5504011123223597110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_25
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 3
+        width: 551
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e17cacea41f2e4597bf67724c37b69
+      internalID: -4313712612592469482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rt5y_26
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3
+        width: 544
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba684813a7dfcb4995ea000ee68535f
+      internalID: -3560176935174675081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
