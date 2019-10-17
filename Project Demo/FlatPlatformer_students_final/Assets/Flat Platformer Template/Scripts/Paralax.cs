@@ -14,14 +14,15 @@ public class BackGround
     public float _damping = 0.5f;
 }
 
-public class Paralax : MonoBehaviour {
+public class Paralax : MonoBehaviour
+{
     public enum Mode
     {
         Horizontal,
         Vertical,
         HorizontalAndVertical
     }
- 
+
     public Mode parallaxMode;
     public List<BackGround> _backGrounds;
 
