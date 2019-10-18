@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: 9a6eb12766864bf46b756132b1eb5be1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2602558613994260786
+    second: rtg_0
+  - first:
+      213: 5860348764444124780
+    second: rtg_1
+  - first:
+      213: -2516125208010926981
+    second: rtg_2
+  - first:
+      213: -6975501494118651883
+    second: rtg_3
+  - first:
+      213: -6640280067849121102
+    second: rtg_4
+  - first:
+      213: 7316183168739969387
+    second: rtg_5
+  - first:
+      213: -1475253509483647364
+    second: rtg_6
+  - first:
+      213: 3582114879995801499
+    second: rtg_7
+  - first:
+      213: -5357941372569551892
+    second: rtg_8
+  - first:
+      213: -6516591621765374118
+    second: rtg_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +99,230 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: rtg_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c5593c671fb1d4c8eada06ef8be2a4
+      internalID: -2602558613994260786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 172
+        width: 266
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d88e02bfca700243a409f56e5e86e53
+      internalID: 5860348764444124780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 172
+        width: 266
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c39922fee8684480d55750be177cb
+      internalID: -2516125208010926981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 172
+        width: 265
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d7b462b410c444a4f973bfe563830
+      internalID: -6975501494118651883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94c142543cede145866c87e841ded65
+      internalID: -6640280067849121102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89290b89353194f4d9d9dd3ba68be152
+      internalID: 7316183168739969387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1778f30c615464285d34da7c20a6a0
+      internalID: -1475253509483647364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754149482261b484b9fc9f51c4d632c6
+      internalID: 3582114879995801499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 10
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f93583cbc03374184505ac02ebf31a
+      internalID: -5357941372569551892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rtg_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 17
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11033707e78ee9f429ef3e9086d3b3ce
+      internalID: -6516591621765374118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
